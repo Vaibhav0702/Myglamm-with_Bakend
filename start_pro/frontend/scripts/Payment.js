@@ -15,6 +15,6 @@ display(total);
 
 fun =()=>{
 
-window.location.href = "success.html";
+window.location.href = "/start_pro/frontend/success.html";
 
 }

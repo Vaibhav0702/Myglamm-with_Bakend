@@ -1,0 +1,224 @@
+#navbar1{
+    width:100%;
+    height: 50px;
+    background-color:
+    #fee8e8;
+    display: flex;
+    justify-content: space-between;
+<<<<<<< HEAD
+    border: 1px solid red;
+    
+=======
+    margin-left:-0px;
+>>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
+    
+    }
+    #Shipping{
+    font-family: sans-serif;
+    background-color:
+    #fee8e8;
+    color: black;
+    cursor:pointer;
+    border: transparent;
+    margin:0px 25px;
+    font-size: 17px;
+     
+    }
+    #nav1{
+    margin-top:15px;
+    margin-right:15px;
+    }
+    #collect{
+    background-color:
+    #fee8e8;
+    color: rgb(245, 12, 187);
+    border: transparent;
+    cursor: pointer;
+    margin:0px 50px;
+    font-size: 17px;
+    }
+    #fa1{
+        margin-right:15px;
+    }
+    
+    
+    #fas1{
+    gap: 10px;
+    margin-right:15px;
+    }
+    #nav2{
+    margin-top:8px;
+    margin-right:15px;
+    display: flex;
+    } 
+    .icon{
+    font-family: sans-serif;
+    background-color:#fee8e8;
+    color: black;
+    cursor:pointer;
+    border: transparent;
+    margin:0px 25px;
+    font-size:17px;
+    
+    }
+    
+    #navbar123{
+    display: flex;
+    max-width:100%;
+    height:50px;
+    background-color:white;
+<<<<<<< HEAD
+    border: 1px solid red;
+=======
+    margin-left: -0px;
+    margin-bottom:15px;
+>>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
+    
+    }
+    #img1{
+    height:80%;
+    width:14%;
+    margin-left: 5%;
+    background-color:white;
+    }
+    
+    .search1{
+    width:500px;
+    height: 40px;
+    background-color: #F6F7F9;
+    border-bottom:1px solid rgba(128, 128, 128, 0.377);
+    margin-top:10px;
+    margin-left:80px;
+    }
+    .search2{
+    display: flex;
+    width: 357px;
+    height: 36px;
+    }
+    #search{
+    color: rgba(59, 58, 58, 0.507);
+    padding: 13px 0px 13px 10px;
+    }
+    #sear{
+    height:30px;
+    width:435px;
+    outline: none;
+    background-color: #F6F7F9;
+    border: none;
+    padding-top:5px;
+    font-size: 16px;
+    }
+    #current{
+        display: flex;
+        margin-left: 300px;
+        margin-top:20px;
+    }
+    #far1{
+        font-size:25px;
+        width:23px;
+        height:41px;
+        margin-right:80px;
+    }
+    #far2{
+        font-size: 25px;
+    }
+    #navbar124{    
+    width:80%;
+    height:50px;
+    background-color:transparent;
+    display: flex;
+    justify-content: space-between;
+    margin-top:60px;
+    margin: auto;
+<<<<<<< HEAD
+    border: 1px solid red;
+=======
+    /* margin-bottom: -5px; */
+>>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
+    }
+    #parts1{
+    
+        font-size: 16px;
+        
+    }
+    #parts2{
+        
+        font-size: 16px;
+        
+    
+    }#parts3{
+    
+        font-size: 16px;
+    }#parts4{
+        
+        font-size: 16px;
+       
+    
+    }#parts5{
+        
+        font-size: 16px;
+      
+    
+    }#parts6{
+        
+        font-size: 16px;
+        
+    
+    }#parts7{
+        
+        font-size: 16px;
+        
+    
+    }#parts8{
+        
+        font-size: 16px;
+    
+    
+    }#parts9{
+    
+        font-size: 16px;
+      
+    }
+    #parts{
+            width:60%;
+            grid-template-columns: (2,1fr);
+            background-color: transparent;
+            position:fixed;
+            color: black;
+            display: flex;
+            justify-content: space-between;
+            margin: auto;
+            background-image: url("ttps://files.myglamm.com/site-images/original/MBF-Desktop.jpg");
+            background-size: cover;
+            margin-top: 150px;
+            background:white;
+            margin-left:9.5%;
+            width:82%;
+        }
+        #div2{
+            display: flex;
+        }
+      #MyG{
+        position: fixed;
+        margin:auto;
+        margin-left:5%;
+      }
+<<<<<<< HEAD
+      /* singin */
+      
+=======
+      #far2{
+          background-color:transparent;
+          border:#ffffff;
+      }
+      .btn{
+          background-color:transparent;
+          color:black;
+          margin-right:50px;
+          width:50px;
+          height:50px;
+         margin-top:-12px;
+         border:#ffffff;
+         box-shadow: none;
+      }
+>>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db

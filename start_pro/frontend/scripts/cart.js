@@ -224,7 +224,7 @@ checkoutbtn.onclick = function()
 
   localStorage.setItem("myglamm-total",JSON.stringify (myglammtotal));
   
-    window.location.href = "/checkout.html"
+    window.location.href = "/start_pro/frontend/checkout.html"
 }
 
 
