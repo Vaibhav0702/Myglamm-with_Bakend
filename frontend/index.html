@@ -709,11 +709,12 @@
                     <form action="http://localhost:5000/login" method="POST">
                     <div class="form-group">
                         <span class="input-icon"><i class="fa fa-user"></i></span>
-                        <input type="email" name="email" class="form-control" placeholder="Enter Mobile No">
+                        <input type="text" name="email" class="form-control" placeholder="Enater email">
                     </div>
                     <div class="form-group">
                         <span class="input-icon"><i class="fas fa-key"></i></span>
-                        <input type="password" name="password"  class="form-control" placeholder="Enter OTP">
+                        <input type="password" name="password"  class="form-control" placeholder="Enter Password">
+                        <input type="hidden" name="link" id="ln" value="">
                     </div>
                     <div class="form-group checkbox">
                         <input type="checkbox">
@@ -833,6 +834,9 @@
    
    let cont = document.getElementById("MyG")
    cont.innerHTML = navbar();
+   var cur=window.location.href;
+   localStorage.setItem("link",JSON.stringify(cur))
+   document.getElementById("ln").value=window.location.href;
    </script>
    <script src="./scripts/nav.js"></script>
 

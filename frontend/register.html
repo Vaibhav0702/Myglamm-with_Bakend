@@ -20,8 +20,14 @@
         <p>password</p>
         <input type="text" name="password" placeholder="password">
         <br>
+        <input type="hidden" id="ln" name="link" value="" >
         <button type="submit" window.location.href="index.html">register</button>
     </form>
     </div> 
 </body>
 </html>
+<script>
+    var cur=JSON.parse(localStorage.getItem("link"));
+    console.log(cur)
+    document.getElementById("ln").value=cur;
+</script>
