@@ -4,13 +4,8 @@
     background-color:
     #fee8e8;
     display: flex;
-    justify-content: space-between;
-<<<<<<< HEAD
-    border: 1px solid red;
-    
-=======
+    justify-content: space-around;
     margin-left:-0px;
->>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
     
     }
     #Shipping{
@@ -27,6 +22,7 @@
     #nav1{
     margin-top:15px;
     margin-right:15px;
+    margin-left: -100px;
     }
     #collect{
     background-color:
@@ -48,8 +44,9 @@
     }
     #nav2{
     margin-top:8px;
-    margin-right:15px;
+    margin-right:20px;
     display: flex;
+    
     } 
     .icon{
     font-family: sans-serif;
@@ -67,13 +64,17 @@
     max-width:100%;
     height:50px;
     background-color:white;
-<<<<<<< HEAD
-    border: 1px solid red;
-=======
     margin-left: -0px;
     margin-bottom:15px;
->>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
     
+    }
+    #outer{
+        
+        background-color: white;
+        
+    }
+    #main{
+        margin-left: -40px;
     }
     #img1{
     height:80%;
@@ -85,15 +86,22 @@
     .search1{
     width:500px;
     height: 40px;
-    background-color: #F6F7F9;
+    background-color: #f6f7f9;
     border-bottom:1px solid rgba(128, 128, 128, 0.377);
     margin-top:10px;
     margin-left:80px;
+    border-radius: 10px;
+    
     }
     .search2{
     display: flex;
     width: 357px;
-    height: 36px;
+    height: 40px;
+    font-family: 'Courier New', Courier;
+    
+    
+    
+   
     }
     #search{
     color: rgba(59, 58, 58, 0.507);
@@ -125,16 +133,12 @@
     #navbar124{    
     width:80%;
     height:50px;
-    background-color:transparent;
+    background-color:white;
     display: flex;
     justify-content: space-between;
-    margin-top:60px;
+    margin-top:100px;
     margin: auto;
-<<<<<<< HEAD
-    border: 1px solid red;
-=======
     /* margin-bottom: -5px; */
->>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db
     }
     #parts1{
     
@@ -194,7 +198,9 @@
             background:white;
             margin-left:9.5%;
             width:82%;
+            border: 1px solid red;
         }
+      
         #div2{
             display: flex;
         }
@@ -203,10 +209,6 @@
         margin:auto;
         margin-left:5%;
       }
-<<<<<<< HEAD
-      /* singin */
-      
-=======
       #far2{
           background-color:transparent;
           border:#ffffff;
@@ -221,4 +223,3 @@
          border:#ffffff;
          box-shadow: none;
       }
->>>>>>> fb1906d05dffc8726400d08011854cb3a07d13db

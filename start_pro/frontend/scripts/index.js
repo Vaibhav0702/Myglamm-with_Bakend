@@ -1,15 +1,26 @@
-import footer from "../components/footer.js";
-import { catagory,spotlight,launches,essentials,bekitcombo,kitcombo,afkitcombo,videoupperdata } from "../components/index.deta";
-import {appendimage,appenddata,showdata,appendvideodata} from "./main.js";
-import {data} from "../deta/products.data.js";
+import { catagory,spotlight,launches,essentials,bekitcombo,kitcombo,afkitcombo,offer,videoupperdata } from "../components/index.deta.js";
+import {appendimage,appenddata,showdata} from "./main.js";
+
+import data from "../components/products.data.js";
+
+
+import {footer} from "../components/footer"
 //Code for adding catagory sections rounded-images
+catagory.forEach((el) => {
     let boxdiv=document.getElementById("productbox-catagory")
-    appendimage(catagory,boxdiv)
+    let div=document.createElement("div")
+    let img = document.createElement("img");
+    img.src = el;
+    div.append(img)
+    boxdiv.append(div)
     
+  });
   let location=document.getElementById("spotligth")
   appenddata(spotlight,location)
 
 //   append launches
+let location1=document.getElementById("offer")
+appenddata(offer,location1)
 
 let location2=document.getElementById("launches")
 appenddata(launches,location2)
@@ -17,6 +28,7 @@ appenddata(launches,location2)
 // append essentials
 let location3=document.getElementById("essentials")
 appenddata(essentials,location3)
+
 
 let location4=document.getElementById("kit")
 appendimage(bekitcombo,location4)
@@ -27,14 +39,7 @@ appenddata(kitcombo,location5)
 let location6=document.getElementById("combos")
 appendimage(afkitcombo,location6)
 
-// let location7=document.getElementById("videotext")
-// appendvideodata(videoupperdata,location7)
 
-// console.log(data)
-// let location8=document.getElementById("product-parent")
-// showdata(data,location8)
-
-// 
 
 let bestseller = document.getElementById("product-parent");
 let bestsellerStart = 0;
@@ -91,5 +96,8 @@ setInterval(() => {
   addBestseller(bestsellerStart, bestsellerEnd);
 }, 3000);
 
-let foot=document.getElementById("footer")
-foot.innerHTML=footer()
+
+let footer1=document.getElementById("footer")
+footer1.innerHTML=footer();
+
+
