@@ -706,13 +706,14 @@
                     <div class="description">
                         <img src="https://www.investindia.gov.in/themes/investindia/image/unicorns/2021/MyGlamm.png" alt="Myglamm">
                     </div>
+                    <form action="http://localhost:5000/login" method="POST">
                     <div class="form-group">
                         <span class="input-icon"><i class="fa fa-user"></i></span>
-                        <input type="email" class="form-control" placeholder="Enter Mobile No">
+                        <input type="email" name="email" class="form-control" placeholder="Enter Mobile No">
                     </div>
                     <div class="form-group">
                         <span class="input-icon"><i class="fas fa-key"></i></span>
-                        <input type="password" class="form-control" placeholder="Enter OTP">
+                        <input type="password" name="password"  class="form-control" placeholder="Enter OTP">
                     </div>
                     <div class="form-group checkbox">
                         <input type="checkbox">
@@ -720,6 +721,7 @@
                     </div>
                     <a href="signup.html" class="forgot-pass">Create account</a>
                     <button class="btn">Login</button>
+                    </form>               
                 </div>
             </div>
         </div>
