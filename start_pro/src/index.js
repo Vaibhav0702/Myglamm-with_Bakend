@@ -2,10 +2,13 @@ const express=require("express");
 const cors=require("cors");
 const productcontroller=require("./controller/Product.controller");
 const skincarecontroller=require("./controller/skincare.controller")
+const makeupcontroller=require("./controller/MAKEUP.controller");
 
  const app=express();
  app.use(cors());
  app.use(express.json());
  app.use("/products",productcontroller);
  app.use("/skincares",skincarecontroller);
+ app.use("/makeups",makeupcontroller);
+ 
  module.exports=app;

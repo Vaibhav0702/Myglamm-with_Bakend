@@ -4,7 +4,27 @@
 var parent = document.getElementById("product_div");
 let cart = JSON.parse(localStorage.getItem("myglammCart"));
 
+// async function givedta (){
+//   // let product=document.getElementById("product");
+//   var parent = document.getElementById("product_div");
+//   try{
+//       let res= await fetch(`http://localhost:5000/skincares`)
+//       let data=await res.json();
+//       console.log(data)
+//       show(data)
+//   }catch(err){
+//     console.log(err);
+//   }
+// }
 
+
+
+// givedta ()
+
+
+
+
+function show(cart){
 // ------------if cart is empty show err-------
 
 var empty_cart = document.getElementById("sub_div");
@@ -255,3 +275,8 @@ function removetoCart(e, prod) {
   localStorage.setItem("myglammCart", JSON.stringify(newprods));
   location.reload();
 }
+
+}
+
+
+show(cart);
