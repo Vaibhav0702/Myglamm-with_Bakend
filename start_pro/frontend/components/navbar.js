@@ -32,7 +32,7 @@ function navbar(){
     <div id="parts3" onmouseover="navbar3()">HAIR CARE</div>
     <div id="parts4" onmouseover="navbar4()">SKIN CARE</div>
     <div id="parts5" onmouseover="navbar5()">SANITIZING CARE</div>
-    <div id="parts6" onmouseover="navbar6()">COLLECTION</div>
+    <div id="parts6" onmouseover="navbar6()">LIPSTICKS</div>
     <div id="parts7" onmouseover="navbar7()">REWARDS</div>
     <div id="parts8" onmouseover="navbar8()">MYGLAMM STUDIO</div>
     <div id="parts9" onmouseover="navbar9()">OFFERS</div>   

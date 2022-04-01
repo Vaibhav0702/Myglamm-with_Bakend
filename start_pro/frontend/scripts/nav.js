@@ -3,13 +3,21 @@ window.addEventListener("load",()=>{
   makeup.addEventListener("click",()=>{
     window.location.href="makeup.html"
   })
+  let hair= document.getElementById("parts3");
+  hair.addEventListener("click",()=>{
+    window.location.href="haircare.html"
+  })
   let skin= document.getElementById("parts4");
      skin.addEventListener("click",()=>{
        window.location.href="skincare.html"
      })
+     let lipstick= document.getElementById("parts6");
+     lipstick.addEventListener("click",()=>{
+       window.location.href="lipstick.html"
+     })
      let cart=document.getElementById("cart");
      cart.addEventListener("click",()=>{
-       window.location.href="../Cart/cart.html"
+       window.location.href="cart.html"
      })
 })
 
