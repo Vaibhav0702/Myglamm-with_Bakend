@@ -64,7 +64,7 @@ data.forEach((el)=>{
       btn.setAttribute("id","cart1")
       let btn1=document.createElement("button");
       btn1.addEventListener("click",()=>{
-          window.location.href="../Cart/cart.html"
+          window.location.href="/start_pro/frontend/cart.html"
       })
       btn1.textContent="Go to Cart"
       btn1.setAttribute("id","cartbtn")
@@ -89,14 +89,10 @@ function loadimg(el){
 let arr= JSON.parse(localStorage.getItem("myglammCart"))||[];
 
 
-function addtocart(el){
-mongoose.connect("mongodb+srv://nike:nike@cluster0.lpebv.mongodb.net/dbsdata?retryWrites=true&w=majority",function(err,db){
-    if(err) throw err;
-    db.collection("myglammcart").insertOne(el,function (err,res){
-        if(err) throw err;
-        console.log("document inserted");
-        db.close();
-    })
-})
 
+function addtocart(el){
+    arr.push(el)
+    console.log(arr)
+  localStorage.setItem("myglammCart",JSON.stringify(arr))
+  alert("item added to cart")
 }
