@@ -4,7 +4,7 @@ import {appendimage,appenddata,showdata} from "./main.js";
 import data from "../components/products.data.js";
 
 
-import {footer} from "../components/footer"
+import footer from "../components/footer.js"
 //Code for adding catagory sections rounded-images
 catagory.forEach((el) => {
     let boxdiv=document.getElementById("productbox-catagory")
