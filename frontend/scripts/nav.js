@@ -11,6 +11,10 @@ window.addEventListener("load",()=>{
      skin.addEventListener("click",()=>{
        window.location.href="skincare.html"
      })
+     let sanitizer= document.getElementById("parts5");
+     sanitizer.addEventListener("click",()=>{
+       window.location.href="sanitizer.html"
+     })
      let lipstick= document.getElementById("parts6");
      lipstick.addEventListener("click",()=>{
        window.location.href="lipstick.html"
