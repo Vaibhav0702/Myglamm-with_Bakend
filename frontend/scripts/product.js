@@ -4,11 +4,13 @@ appendta(data)
 
 function appendta(){
 data.forEach((el)=>{
+    console.log(el);
     let div=document.createElement("div");
     let div1=document.createElement("div");
      div1.setAttribute("id","show")
     let image=document.createElement("img");
-    image.src=el.Image;
+    image.src=el.Image1;
+   
     div1.append(image)
     let div2=document.createElement("div");
     div2.addEventListener("click",()=>{

@@ -78,7 +78,7 @@ function showProducts() {
 
   // ----------image------
         let img = document.createElement("img");
-        img.src = product.Image;
+        img.src = product.Image1;
   //  --------------amount and total------
        let amount = document.createElement("p");
            amount.style.fontWeight = "900";

@@ -1,33 +1,54 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="./styles/register.css">
-</head>
-<body>
+    <link rel="stylesheet" href="./styles/register.css" />
+   
+  </head>
+  <body>
+    <div id="top">
+      <div id="navbar">
+        <div id="logo">
+          <img
+            src="https://files.myglamm.com/site-images/original/MyGlamm-Logo_1.jpg"
+            alt=""
+          />
+        </div>
+      </div>
+    </div>
     <div id="main">
-    <div><h1>Sign-Up</h1></div>
-    <form action="http://localhost:5000/register" method="POST">
+      <div><h1>Sign-Up</h1></div>
+      <div id="logo1">
+        <img
+          src="./images/myglamm.jpg"
+          alt=""
+        />
+      </div>
+
+
+      <form action="http://localhost:5000/register" method="POST">
         <p>NAME</p>
-        <input type="text" name="name" placeholder="name">
-        <br>
+        <input type="text" name="name" placeholder="name" />
+        <br />
         <p>Email</p>
-        <input type="text" name="email" placeholder="email">
-        <br>
+        <input type="text" name="email" placeholder="email" />
+        <br />
         <p>password</p>
-        <input type="text" name="password" placeholder="password">
-        <br>
-        <input type="hidden" id="ln" name="link" value="" >
-        <button type="submit" window.location.href="index.html">register</button>
-    </form>
-    </div> 
-</body>
+        <input type="text" name="password" placeholder="password" />
+        <br />
+        <input type="hidden" id="ln" name="link" value="" />
+        <button type="submit" window.location.href="index.html">
+          register
+        </button>
+      </form>
+    </div>
+  </body>
 </html>
 <script>
-    var cur=JSON.parse(localStorage.getItem("link"));
-    console.log(cur)
-    document.getElementById("ln").value=cur;
+  var cur = JSON.parse(localStorage.getItem("link"));
+  console.log(cur);
+  document.getElementById("ln").value = cur;
 </script>
