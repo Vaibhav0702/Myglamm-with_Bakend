@@ -15,14 +15,14 @@ Blog link :
 
 
 # Technology We Used:
-# Tech Stack in Frontend:
+# In Frontend:
 1. HTML
 2. CSS
 3. JavaScript
 4. Bootstrap
 
 
-# Tech Stack in Backend:
+# In Backend:
 1. Mongo DB
 2. AWS
 3. Node JS
