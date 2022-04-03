@@ -53,7 +53,7 @@ Blog link :
 
 We created cloud database using MongoDb Atlas and deployed on AWS. So, if you want to run our code then please read the instructions below :
 - Clone our repository `https://github.com/Vaibhav0702/Myglamm-with_Frontend.git` for frontend code and `https://github.com/nikeshkumarsingh/Myglamm_with_backend.git` for backend code.
-- Download Key from `https://drive.google.com/file/d/1XEaB9W-k4zLK44YCk0q6Ai0Kp6aWKEgo/view?usp=sharing`.
+- Download Key from `https://drive.google.com/file/d/11abC1gV8ed2VZKXR6PH-YZY7_43Jr6UL/view?usp=sharing`.
 - Go to download folder of you computer and open Git Bash here.
 - copy paste the link `ssh -i "My-Glamm_Key.pem" ubuntu@ec2-3-88-12-166.compute-1.amazonaws.com` into your Git Bash terminal and press enter key.
 - Type yes then press enter key ( if required ).
