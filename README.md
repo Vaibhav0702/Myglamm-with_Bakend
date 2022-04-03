@@ -37,11 +37,11 @@ Blog link :
 
 **Signup page**
 
-![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing)
+<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
 
-**Products page**
-<!-- 
-![Screenshot (56)](https://miro.medium.com/max/875/1*D4GW0TdEhANt9J4vUOvVBw.png) -->
+**Payment page**
+
+![Screenshot (56)](https://blogger.googleusercontent.com/img/a/AVvXsEiS0s4hKld4oofBxONLSceprbyTCPbZmEB0vcWKz23QP3qOVkp7-nvokWgYuW7lfP9gMrgYYm6IjAzlIRbgkvmL94HBw6CzPtyL-NDYXeIcBplKsr4Yx_Wa5QSylk53JFCGzy622sxADjy3sX670WumLukcfieTfz8kRbUjr3HdxRq1XT16netp9Wit=s1280)
 
 
 **CheckOut page**
