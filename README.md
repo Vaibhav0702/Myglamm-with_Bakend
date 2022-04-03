@@ -1,10 +1,10 @@
-# Myglamm-with_FrontEnd
+# Myglamm-with_Frontend
 
 Unit 4 Project At Masai School.
 
 **Links for reference :**
 
-Front-end Repo Link :
+Frontend Repo Link :
 https://github.com/Vaibhav0702/Myglamm-with_Frontend.git
 
 Backend Repo Link :
