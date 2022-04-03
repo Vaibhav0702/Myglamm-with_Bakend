@@ -11,6 +11,8 @@ Backend Repo Link :
 https://github.com/nikeshkumarsingh/Myglamm_with_backend.git
 
 Blog link : 
+https://rahulbaghel6211.blogspot.com/2022/04/myglamm-backend.html
+
 
 
 
@@ -32,24 +34,24 @@ Blog link :
 **About Website :**
 
 **Landing page**
-<!-- 
-![Screenshot (51)](https://miro.medium.com/max/3786/1*VWWyKuzBCGh2ipERuP4d_Q.png) -->
+
+![Screenshot (51)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJca0H2TrVgRNZQPIDUunv9JGMLp6CFVNYe_WxWQ6jqbwU0SCQR33yMd0egy1_L97r6XWrcdj06it5Dy7zlxwf-B-2Hp1ly0R6l0IbfxNBK9xhBFp_HBLstBAuVByCmTm6i4JbzpH53PB-ikNm4xWuTuwhQngrHIDkCYJQOXRGUMhWBTirmTsUA2s/s1280/WhatsApp%20Image%202022-04-02%20at%2013.37.02.jpeg)
 
 **Signup page**
 
-<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+![Screenshot (55)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiySwBItoN_osGJwzNi5Z3r9sfhV4lgA8_Z5VtSMogC2aE1bMwn1F-tgInL5dE-Wi9_9S2MqYeERxI7mY1obcx9li6LphrVr0GZB7YKb3moi5SrxZcR65lVkGxDXAUogvcBzD4Re6IpgFue-K_i9uiI-oWT53lkFHKzCFnHKqCAtNBZmEdlYV2_3hA7/s1280/WhatsApp%20Image%202022-04-03%20at%2013.33.31.jpeg)
 
 **Login page**
 
-<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+![Screenshot (55)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-1x6B0OsWGqiWdBv6lLurABJR6ofeazPIw4F4wyuRTd4tCNLKOquuQpMtd_wfApLMIaqHTm7glN1Iep4X99kvAQTcQvaki04RxoqZgxGbqMTbMrshucv9pp_qLtdzDYfB7zfvwFY4ZXUhLDa0i5LlLZZLIJlrHQFHrQocbCSaid-G1JS1Z3vJQqU/s1279/WhatsApp%20Image%202022-04-03%20at%2013.33.29%20(1).jpeg)
 
 **Product page**
 
-<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+![Screenshot (55)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOicVGE7EONc0VjOMBux6BD39oe6qO9ifC7DhS159RPtnx3PSUU6ly4LaAUccZv8vMEK6Ee2AeAIBC2ISI4vRaSfDgKpM2Ulmvc5t2nCmWhfW6Jv97_EzBVhVnu-qYLrCieqz_FPDSNVC8HXZCY18T9BR0LGKgkbCROf3fSn6t92Ge545DIJK26_8/s1280/WhatsApp%20Image%202022-04-03%20at%2013.33.30%20(1).jpeg)
 
 **Cart page**
 
-<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+![Screenshot (55)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0zHnD09NwxNtdx9q-0dtCsVlC9JZvBPjB8KUFgL2sDt2S0QLVxj92cyw_rfZBp9MotbwytO_P4SNPHoSEMSmDhFcUUmgXP3Oggn7_5yf-lzZkLkPqAQs3gjEkxbYyPGBcp8dMMsvjqGgGxkoCLNtIuAS9xZcGILiwEw7Kkx_mzD6kpBSarWPCZT-/s1280/WhatsApp%20Image%202022-04-03%20at%2013.33.27.jpeg)
 
 **CheckOut page**
 
@@ -95,4 +97,9 @@ We created cloud database using MongoDb Atlas and deployed on AWS. So, if you wa
 
 EX :
 http://ec2-3-88-12-166.compute-1.amazonaws.com:5000/lipsticks
+
+## Instructions to Run the Code Using Netlify Link
+- simply open the link https://nikeshandgroup.netlify.app
+- Follow the Instruction from `https://medium.com/@nikdoc1947/how-to-fetch-data-from-http-protocol-link-fd3866fe4e9`.
+
 
