@@ -37,7 +37,7 @@ Blog link :
 
 **Signup page**
 
-<!-- ![Screenshot (55)](https://miro.medium.com/max/875/1*NW0hgxzqK31Qebv2MNqkTQ.png) -->
+![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing)
 
 **Products page**
 <!-- 
@@ -48,15 +48,20 @@ Blog link :
 <!-- 
 ![Screenshot (58)](https://miro.medium.com/max/875/1*OjQzHmVFRNe43byIqf-jPg.png) -->
 
-## Instructions to Run the Code 
+## Instructions to Run the Code Using AWS
 #### Note:
 
 We created cloud database using MongoDb Atlas and deployed on AWS. So, if you want to run our code then please read the instructions below :
 - Clone our repository `https://github.com/Vaibhav0702/Myglamm-with_Frontend.git` for frontend code and `https://github.com/nikeshkumarsingh/Myglamm_with_backend.git` for backend code.
-- Open that code in your VS code `index.html` and `src/server.js`.
-- Open terminal in your VS Code and run the command `npm install` which will install all packages.
-- Open terminal in your VS Code and run the command `npm run server`.
-- It will show a message that `JSON Server is running on port 5000`.
+- Download Key from `https://drive.google.com/file/d/1XEaB9W-k4zLK44YCk0q6Ai0Kp6aWKEgo/view?usp=sharing`.
+- Go to download folder of you computer and open Git Bash here.
+- copy paste the link `ssh -i "My-Glamm_Key.pem" ubuntu@ec2-3-88-12-166.compute-1.amazonaws.com` into your Git Bash terminal and press enter key.
+- Type yes then press enter key ( if required ).
+- Type `cd /var` then press enter key.
+- Type `ls` then press enter key.
+- Type `cd Myglamm_with_backend` then press enter key.
+- Type `sudo npm run server` then press enter key.
+- It will show a message that `listening on port 5000`.
 - Open the `index.html` on Live server from `https://github.com/Vaibhav0702/Myglamm-with_Frontend.git`.
 - Then you can Navigate through other pages from Landing page like `lipstick.html`, `makeup.html`,`haircare.html` etc.
 
