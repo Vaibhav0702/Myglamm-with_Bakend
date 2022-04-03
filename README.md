@@ -39,14 +39,28 @@ Blog link :
 
 <!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
 
+**Login page**
+
+<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+
+**Product page**
+
+<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+
+**Cart page**
+
+<!-- ![Screenshot (55)](https://drive.google.com/file/d/1pH6OgUvOBPJbQmf7sZPL0GDP7ysrXKH_/view?usp=sharing) -->
+
+**CheckOut page**
+
+![Screenshot (58)](https://blogger.googleusercontent.com/img/a/AVvXsEgUw4OXMOYXvQv1hj5J03rw8bA3YxzATuZW5jJG1_J5XMwaMtyY9zQdvPSp19RFXZxX4Jmkhv2Vw984QDOaMOPCz_gjmuuerY2-6RZVpuR3AzapNslb4riWbC2CzOKwYQKE0ceApBcDUPo0JXKdwal6t5ciCCiPrOBnAuIwsIJvH1e5Q5Pot_REgkV9=s320)
+
 **Payment page**
 
 ![Screenshot (56)](https://blogger.googleusercontent.com/img/a/AVvXsEiS0s4hKld4oofBxONLSceprbyTCPbZmEB0vcWKz23QP3qOVkp7-nvokWgYuW7lfP9gMrgYYm6IjAzlIRbgkvmL94HBw6CzPtyL-NDYXeIcBplKsr4Yx_Wa5QSylk53JFCGzy622sxADjy3sX670WumLukcfieTfz8kRbUjr3HdxRq1XT16netp9Wit=s1280)
 
 
-**CheckOut page**
 
-![Screenshot (58)](https://blogger.googleusercontent.com/img/a/AVvXsEgUw4OXMOYXvQv1hj5J03rw8bA3YxzATuZW5jJG1_J5XMwaMtyY9zQdvPSp19RFXZxX4Jmkhv2Vw984QDOaMOPCz_gjmuuerY2-6RZVpuR3AzapNslb4riWbC2CzOKwYQKE0ceApBcDUPo0JXKdwal6t5ciCCiPrOBnAuIwsIJvH1e5Q5Pot_REgkV9=s320)
 
 ## Instructions to Run the Code Using AWS
 #### Note:

@@ -66,7 +66,7 @@ data.forEach((el)=>{
       btn.setAttribute("id","cart1")
       let btn1=document.createElement("button");
       btn1.addEventListener("click",()=>{
-          window.location.href="/frontend/cart.html"
+          window.location.href="cart.html"
       })
       btn1.textContent="Go to Cart"
       btn1.setAttribute("id","cartbtn")
