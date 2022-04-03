@@ -44,9 +44,9 @@ Blog link :
 ![Screenshot (56)](https://miro.medium.com/max/875/1*D4GW0TdEhANt9J4vUOvVBw.png) -->
 
 
-**Sections page**
-<!-- 
-![Screenshot (58)](https://miro.medium.com/max/875/1*OjQzHmVFRNe43byIqf-jPg.png) -->
+**CheckOut page**
+
+![Screenshot (58)](https://blogger.googleusercontent.com/img/a/AVvXsEgUw4OXMOYXvQv1hj5J03rw8bA3YxzATuZW5jJG1_J5XMwaMtyY9zQdvPSp19RFXZxX4Jmkhv2Vw984QDOaMOPCz_gjmuuerY2-6RZVpuR3AzapNslb4riWbC2CzOKwYQKE0ceApBcDUPo0JXKdwal6t5ciCCiPrOBnAuIwsIJvH1e5Q5Pot_REgkV9=s320)
 
 ## Instructions to Run the Code Using AWS
 #### Note:
