@@ -99,7 +99,7 @@ EX :
 http://ec2-3-88-12-166.compute-1.amazonaws.com:5000/lipsticks
 
 ## Instructions to Run the Code Using Netlify Link
-- simply open the link https://nikeshandgroup.netlify.app
+- simply open the link https://nikeshandgroup.netlify.app/index.html
 - Follow the Instruction from `https://medium.com/@nikdoc1947/how-to-fetch-data-from-http-protocol-link-fd3866fe4e9`.
 
 
